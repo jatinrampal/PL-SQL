@@ -1,1 +1,2 @@
 *.rb linguist-language=SQL
+static/* linguist-vendored
